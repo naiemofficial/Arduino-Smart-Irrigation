@@ -6,12 +6,12 @@ This project includes two intelligent irrigation approaches:
 <br>
 <ol>
     <li>
-        <b>Smart Irrigation (Basic)</b>
+        <b><a target="_blank" href="https://cutt.ly/smart-irrigation">Smart Irrigation (Basic)</a></b>
         <br>
         <small>Automatically detects soil moisture and activates the pump when the soil is dry.</small>
     </li>
     <li>
-        <b>Smart Irrigation with Overwatering Prevention</b>
+        <b><a target="_blank" href="https://cutt.ly/smart-irrigation-with-overwatring-prevention">Smart Irrigation with Overwatering Prevention</a></b>
         <br>
         <small>Uses a state tracking approach to monitor changes in soil moisture (Dry → Moderate → Wet). The pump runs only when truly necessary, avoiding redundant cycles and unnecessary water usage.</small>
     </li>
@@ -76,7 +76,7 @@ Adjust your code thresholds based on your measurements. For example, the values 
     </thead>
     <tbody>
         <tr>
-            <th>Simulator <sup>[<a target="_blank" href="">1</a>] [<a target="_blank" href="">2</a>]</sup></th>
+            <th>Simulator <sup>[<a target="_blank" href="https://cutt.ly/smart-irrigation">1</a>] [<a target="_blank" href="https://cutt.ly/smart-irrigation-with-overwatring-prevention">2</a>]</sup></th>
             <td>500</td>
             <td>800</td>
         </tr>
